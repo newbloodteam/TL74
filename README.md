@@ -1,2 +1,3 @@
-# TL74
-Press here: https://github.com/orgs/newbloodteam/teams/tl74
+# TL74 - General Issues
+# https://github.com/orgs/newbloodteam/teams/tl74
+
